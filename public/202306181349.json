@@ -1,4 +1,9 @@
-[
+[{
+	"note": {
+		"imgneedproxy": false,
+		"vneedproxy": false
+	},
+	"imglist":[
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHWcpqtNiaSBJzumSkt9wVKQqpTAjhUCIWyMITVpTGPnbIz6Xiadxtk3ZPA/0?wx_fmt=jpeg",
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHW1yibMxicJicsOrfVysicGiaJX6U1Lxl3yo8IOBCJuOFg1EP7RvxEiaKnI8pw/0?wx_fmt=jpeg",
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHWLgbrBpSgToQ8Jrllq8aAgaDqzjwWze8mPnwkeMC08SRTbdCBSE2U2Q/0?wx_fmt=jpeg",
@@ -63,4 +68,6 @@
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHWdyyL3zOLJTsF0G4jwoaRc3kVMv8PV7266XaBasSRiczcKvRHJhlCvXg/0?wx_fmt=jpeg",
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHWf7OlTCOJEanKvia9Y7dVv63qlYo2nOibNeChPhMhMDENiaw84xrqx9LGQ/0?wx_fmt=jpeg",
   "https://mmbiz.qpic.cn/mmbiz_jpg/aEEKxSDOc1Eamq84xkqicvLfrJm16hkHWRV9mkHnsXKVzRwtGCIPfhsXpGRRdJfqcic0xgabpnTjTuZiayvtYibcuA/0?wx_fmt=jpeg"
-]
+],
+	"videolist": []
+}]
